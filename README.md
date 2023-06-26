@@ -28,7 +28,7 @@ Choose the language that suits your needs and explore the corresponding director
 
 The repository covers a wide range of data structures, such as:
 
-- [Linked List](./SinglyLinked%20List)
+- [Linked List](SinglyLinkedList)
 - Stacks
 - Queues
 - Trees
