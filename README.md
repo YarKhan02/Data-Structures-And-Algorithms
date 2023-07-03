@@ -46,7 +46,7 @@ Algorithms play a crucial role in solving computational problems efficiently. Th
 - Sorting algorithms (e.g., Bubble Sort, Merge Sort, Quick Sort)
 - Searching algorithms (e.g., Linear Search, Binary Search)
 - Graph algorithms (e.g., Breadth-First Search, Depth-First Search)
-- Dynamic Programming algorithms
+- [Dynamic Programming algorithms](DynamicProgramming)
 - and more...
 
 Each algorithm implementation is accompanied by an explanation, time complexity analysis, and usage examples.
