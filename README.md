@@ -43,7 +43,7 @@ Each data structure directory contains a detailed explanation of the structure a
 
 Algorithms play a crucial role in solving computational problems efficiently. This repository provides implementations of various algorithms, including:
 
-- Sorting algorithms (e.g., Bubble Sort, Merge Sort, Quick Sort)
+- Sorting algorithms (e.g., Bubble Sort, Merge Sort, Quick Sort)(SortingAlgorithms)
 - Searching algorithms (e.g., Linear Search, Binary Search)
 - Graph algorithms (e.g., Breadth-First Search, Depth-First Search)
 - [Dynamic Programming algorithms](DynamicProgramming)
