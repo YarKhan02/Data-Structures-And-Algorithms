@@ -31,7 +31,7 @@ The repository covers a wide range of data structures, such as:
 - [Linked List](LinkedList)
 - Stacks
 - Queues
-- Trees
+- [Trees](Tree)
 - Graphs
 - Hash Tables
 - Heaps
